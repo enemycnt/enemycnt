@@ -33,16 +33,16 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 - Docker
 
 ## Projects 🚀
-<table border="0">
+<table border="0" cols="2">
 <tr>
-<td>
+<td width="50%">
 
   <a href="https://github.com/enemycnt/game_of_squares/"><b>Game of Squares: A Simple 2D Demo</b></a><br/>
   <em>It's not yet a game! </em>
 
    <small>Rust 🦀, Bevy 👾</small>
 </td>
-<td>
+<td width="50%">
 
   <a href="https://github.com/enemycnt/bi-widget-rust-cli"><b>Binance widget: rust cli</b></a><br/>
   <em>"Rewrite everything in Rust!"</em> 😄
@@ -51,14 +51,14 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%">
 
   <a href="https://github.com/sygmaprotocol/sygma-sdk"><b>Sygma SDK</b></a><br/>
   cross-chain bridge SDK
 
   <small>TypeScript 🟦, ReactJS ⚛️, Ethers.js ⛓️ </small>
 </td>
-<td>
+<td width="50%">
 
   <a href="https://github.com/sygmaprotocol/sygma-ui"><b>SygmaUI</b></a><br/>
   OpenSource UI for Sygma bridge
