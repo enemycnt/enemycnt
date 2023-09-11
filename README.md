@@ -39,6 +39,7 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 
 </tr>
 </table>
+
 ## Skills 📜
 
 #### Languages
