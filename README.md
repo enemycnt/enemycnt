@@ -3,35 +3,6 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/enemycnt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikolay-topkaridi/)
 
-## Skills 📜
-
-#### Languages
-- TypeScript
-- JavaScript
-- Rust
-- Ruby
-- Scala
-
-#### Web3/Crypto
-- Ethers.js
-- PolkadotJS
-#### Frontend
-- ReactJS
-- NextJS
-- Svelte
-- GraphQL
-- Mobx
-- Redux
-#### Backend
-- NodeJS
-- Ruby on Rails
-- MySQL
-- PostgreSQL
-#### Others
-- React Native
-- Electron
-- Docker
-
 ## Projects 🚀
 <table border="0" cols="2">
 <tr>
@@ -68,6 +39,36 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 
 </tr>
 </table>
+## Skills 📜
+
+#### Languages
+- TypeScript
+- JavaScript
+- Rust
+- Ruby
+- Scala
+
+#### Web3/Crypto
+- Ethers.js
+- PolkadotJS
+#### Frontend
+- ReactJS
+- NextJS
+- Svelte
+- GraphQL
+- Mobx
+- Redux
+#### Backend
+- NodeJS
+- Ruby on Rails
+- MySQL
+- PostgreSQL
+#### Others
+- React Native
+- Electron
+- Docker
+
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enemycnt&show_icons=true&hide_rank=true)
