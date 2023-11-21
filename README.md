@@ -41,7 +41,7 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 </table>
 
 ## Skills 📜
-<table border="0" cols="2" width="100%">
+<table border="0" width="800">
 
 <tr>
 <td valign="top" width="50%">
