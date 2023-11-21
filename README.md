@@ -41,35 +41,66 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 </table>
 
 ## Skills 📜
+<table border="0" cols="2">
 
-#### Languages
-- TypeScript
-- JavaScript
-- Rust
-- Ruby
-- Scala
+<tr>
+<td valign="top">
+<h4>Languages</h4>
+<ul>
+<li>TypeScript</li>
+<li>JavaScript</li>
+<li>Rust</li>
+<li>Ruby</li>
+<li>Scala</li>
+</ul>
+</td>
+<td valign="top">
+<h4>Web3/Crypto</h4>
+<ul>
+<li>Ethers.js</li>
+<li>PolkadotJS</li>
+</ul>
 
-#### Web3/Crypto
-- Ethers.js
-- PolkadotJS
-#### Frontend
-- ReactJS
-- NextJS
-- Svelte
-- GraphQL
-- Mobx
-- Redux
-#### Backend
-- NodeJS
-- Ruby on Rails
-- MySQL
-- PostgreSQL
-#### Others
-- React Native
-- Electron
-- Docker
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<h4>Frontend</h4>
+<ul>
+<li>ReactJS</li>
+<li>NextJS</li>
+<li>Svelte</li>
+<li>GraphQL</li>
+<li>Jotai</li>
+<li>Mobx</li>
+<li>Redux</li>
+</ul>
+</td>
+<td valign="top">
+<h4>Backend</h4>
+<ul>
+<li>NodeJS</li>
+<li>Ruby on Rails</li>
+<li>MySQL</li>
+<li>PostgreSQL</li>
+</ul>
+</td>
 
 
+</td>
+</tr>
+<tr>
+<td valign="top">
 
+<h4>Others</h4>
+<ul>
+<li>Docker</li>
+<li>React Native</li>
+<li>Electron</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enemycnt&show_icons=true&hide_rank=true)
