@@ -41,10 +41,10 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 </table>
 
 ## Skills 📜
-<table border="0" cols="2">
+<table border="0" cols="2" width="100%">
 
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 <h4>Languages</h4>
 <ul>
 <li>TypeScript</li>
@@ -54,7 +54,7 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 <li>Scala</li>
 </ul>
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 <h4>Web3/Crypto</h4>
 <ul>
 <li>Ethers.js</li>
@@ -65,7 +65,7 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 </tr>
 
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 <h4>Frontend</h4>
 <ul>
 <li>ReactJS</li>
@@ -77,7 +77,7 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 <li>Redux</li>
 </ul>
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 <h4>Backend</h4>
 <ul>
 <li>NodeJS</li>
