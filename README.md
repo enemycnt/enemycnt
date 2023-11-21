@@ -46,20 +46,28 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 <td valign="top">
 
 ```markdown
+
+
 #### Languages ####
 - TypeScript
 - JavaScript
 - Rust
 - Ruby
+
+
 ```
 
 </td>
 <td valign="top">
 
 ```markdown
+
+
 #### Web3/Crypto ####
 - Ethers.js
 - PolkadotJS
+
+
 
 
 ```
@@ -71,6 +79,8 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 <td valign="top">
 
 ```markdown
+
+
 #### Frontend ####
 - ReactJS
 - NextJS
@@ -79,16 +89,22 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 - GraphQL
 - Mobx
 - Redux
+
+
 ```
 </td>
 <td valign="top">
 
 ```markdown
+
+
 #### Backend ####
 - NodeJS
 - Ruby on Rails
 - MySQL
 - PostgreSQL
+
+
 
 
 
@@ -102,10 +118,14 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 <td valign="top">
 
 ```markdown
+
+
 #### Others ####
 - React Native
 - Electron
 - Docker
+
+
 ```
 </td>
 </tr>
