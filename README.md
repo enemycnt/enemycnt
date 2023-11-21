@@ -41,64 +41,72 @@ I'm Nikolay, and I'm a full-stack developer with a passion for web3 ⛓️Ξ
 </table>
 
 ## Skills 📜
-<table border="0" width="800">
-
-<tr>
-<td valign="top" width="50%">
-<h4>Languages</h4>
-<ul>
-<li>TypeScript</li>
-<li>JavaScript</li>
-<li>Rust</li>
-<li>Ruby</li>
-<li>Scala</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<h4>Web3/Crypto</h4>
-<ul>
-<li>Ethers.js</li>
-<li>PolkadotJS</li>
-</ul>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-<h4>Frontend</h4>
-<ul>
-<li>ReactJS</li>
-<li>NextJS</li>
-<li>Svelte</li>
-<li>GraphQL</li>
-<li>Jotai</li>
-<li>Mobx</li>
-<li>Redux</li>
-</ul>
-</td>
-<td valign="top" width="50%">
-<h4>Backend</h4>
-<ul>
-<li>NodeJS</li>
-<li>Ruby on Rails</li>
-<li>MySQL</li>
-<li>PostgreSQL</li>
-</ul>
-</td>
-
-
-</td>
-</tr>
+<table>
 <tr>
 <td valign="top">
 
-<h4>Others</h4>
-<ul>
-<li>Docker</li>
-<li>React Native</li>
-<li>Electron</li>
-</ul>
+```markdown
+#### Languages ####
+- TypeScript
+- JavaScript
+- Rust
+- Ruby
+```
+
+</td>
+<td valign="top">
+
+```markdown
+#### Web3/Crypto ####
+- Ethers.js
+- PolkadotJS
+
+
+```
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+```markdown
+#### Frontend ####
+- ReactJS
+- NextJS
+- Svelte
+- Jotai
+- GraphQL
+- Mobx
+- Redux
+```
+</td>
+<td valign="top">
+
+```markdown
+#### Backend ####
+- NodeJS
+- Ruby on Rails
+- MySQL
+- PostgreSQL
+
+
+
+```
+</td>
+
+
+</tr>
+
+<tr>
+<td valign="top">
+
+```markdown
+#### Others ####
+- React Native
+- Electron
+- Docker
+```
 </td>
 </tr>
 </table>
